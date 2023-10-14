@@ -10,10 +10,6 @@ A curated list of personal academic websites and portfolios for researchers and 
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" alt="Academic Academic Websites" />
-</a>
-
 <!-- description -->
 
 Discover inspiring personal academic websites and portfolios of researchers and scholars in various fields.
