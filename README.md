@@ -48,6 +48,14 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 - [Lab Website](https://portfoliox.edu) - Showcasing a diverse range of academic achievements.
 - [Portfolio Y](https://portfoliobyyscholar.com) - Documenting research projects and publications.
 
+## Awesome 3D Websites
+
+-[KPR Verse](https://kprverse.com/) - KPR Verse is an awesome 3D website to visit and learn.
+-[Admire Amaze](https://admireamaze.debijenkorf.nl/) - This journey through De Bijenkorf’s ecommerce website begins with a bee.
+-[Peter Tarka](https://petertarka.com/) - Peter Tarka specializes in three-dimensional illustrations that are full of intricate details, eye-pleasing colors, and shapes.
+-[Enric Moreu](https://resume.enricmor.eu/) - A blue sky with angular clouds and a lone figure standing on a floating piece of ground opens up this digital resume for Eric Moreu. 
+-[Clou](https://www.clouarchitects.com/) - Architecture merges physical forms with space. This website, for the China-based architectural firm Clou Architects, works with form and space in the digital realm with this revolving carousel of projects.
+
 <!-- END CONTENT -->
 
 ## Follow
