@@ -32,7 +32,7 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 
 ## Academic Researchers
 
-- [Dr. Nathan Constantine-Cooke](https://www.constantine-cooke.com/)| [Code](https://github.com/nathansam/nathansam.github.io) - Postdoctoral Research Associate in Health Data Science.
+- [Dr. Nathan Constantine-Cooke](https://www.constantine-cooke.com/) · [Code](https://github.com/nathansam/nathansam.github.io) - Postdoctoral Research Associate in Health Data Science.
 - [Dr. Jarrett Dillenburger](https://www.jdillenburger.org/) - SciComm. Chemistry. Space.
 - [Dr. Kantwon Rogers](https://www.kantwon.com/) - Recent Georgia Tech Ph.D. graduate in Computer Science.
 - [Dr. Meredith Schmehl](https://meredithschmehl.com/) - Neuroscientist and Policy Advocate.
@@ -44,9 +44,9 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 
 ## Lab Websites
 
-- [Griffith Lab](https://griffithlab.org/) | [Code](https://github.com/griffithlab/griffithlab.org)
-- [HIDIVE Lab](https://hidivelab.org/) | [Code](https://github.com/hms-dbmi/gehlenborglab-website)
-- [Wurm Lab](https://wurmlab.com/) | [Code](https://github.com/wurmlab/wurmlab.github.io)
+- [Griffith Lab](https://griffithlab.org/) · [Code](https://github.com/griffithlab/griffithlab.org)
+- [HIDIVE Lab](https://hidivelab.org/) · [Code](https://github.com/hms-dbmi/gehlenborglab-website)
+- [Wurm Lab](https://wurmlab.com/) · [Code](https://github.com/wurmlab/wurmlab.github.io)
 <!-- END CONTENT -->
 
 ## Contributing
