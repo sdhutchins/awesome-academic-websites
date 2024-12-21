@@ -16,27 +16,26 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 
 </div>
 
-<!-- TOC -->
-
 ## Contents
 
-- [Notable Academics](#notable-academics)
-- [Researchers](#researchers)
+- [Notable People](#notable-people)
+- [Academic Researchers](#researchers)
 - [Portfolios](#portfolios)
 - [Lab Websites](#lab-websites)
-- [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Notable Academics
+## Notable People
 
 - [John Doe](https://johndoe.com) - An influential researcher in the field of biology.
 - [Jane Smith](https://janesmith.academicpage.io) - A prominent scholar in computer science.
 
-## Researchers
+## Academic Researchers
 
-- [Researcher A](https://researchera.com) - Exploring the frontiers of physics and mathematics.
-- [Researcher B](https://researcherb.net) - Contributing to environmental science and sustainability.
+- [Dr. Nathan Constantine-Cooke](https://www.constantine-cooke.com/)| [Code](https://github.com/nathansam/nathansam.github.io) - Postdoctoral Research Associate in Health Data Science.
+- [Dr. Jarrett Dillenburger](https://www.jdillenburger.org/) - SciComm. Chemistry. Space.
+- [Dr. Kantwon Rogers](https://www.kantwon.com/) - Recent Georgia Tech Ph.D. graduate in Computer Science.
+- [Dr. Meredith Schmehl](https://meredithschmehl.com/) - Neuroscientist and Policy Advocate.
 
 ## Portfolios
 
@@ -45,20 +44,14 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 
 ## Lab Websites
 
-- [Lab Website](https://portfoliox.edu) - Showcasing a diverse range of academic achievements.
-- [Portfolio Y](https://portfoliobyyscholar.com) - Documenting research projects and publications.
-
+- [Griffith Lab](https://griffithlab.org/) | [Code](https://github.com/griffithlab/griffithlab.org)
+- [HIDIVE Lab](https://hidivelab.org/) | [Code](https://github.com/hms-dbmi/gehlenborglab-website)
+- [Wurm Lab](https://wurmlab.com/) | [Code](https://github.com/wurmlab/wurmlab.github.io)
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube, etc.) -->
-
-Who else should we be following for insights into academic personal websites and portfolios!?
 
 ## Contributing
 
-[Contributions of any kind are welcome. Please follow the guidelines](CONTRIBUTING.md)!
+Contributions of any kind are welcome. [Please review the guidelines.](CONTRIBUTING.md)!
 
 ### Contributors
 
