@@ -27,8 +27,8 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 
 ## Notable People
 
-- [John Doe](https://johndoe.com) - An influential researcher in the field of biology.
-- [Jane Smith](https://janesmith.academicpage.io) - A prominent scholar in computer science.
+- [Jim Hester](https://www.jimhester.com/) - Senior Software Engineer at Netflix (formerly at RStudio).
+- [Dr. Vanessa Sochat](https://vsoch.github.io/) - Principal Computer Scientist at Lawrence Livermore National Laboratory.
 
 ## Academic Researchers
 
