@@ -46,6 +46,7 @@ Discover inspiring personal academic websites and portfolios of researchers and 
 
 - [Griffith Lab](https://griffithlab.org/) | [Code](https://github.com/griffithlab/griffithlab.org)
 - [HIDIVE Lab](https://hidivelab.org/) | [Code](https://github.com/hms-dbmi/gehlenborglab-website)
+- [Sheffield Lab](https://databio.org/) | [Code](https://github.com/databio/mkdocs-databio)
 - [Wurm Lab](https://wurmlab.com/) | [Code](https://github.com/wurmlab/wurmlab.github.io)
 <!-- END CONTENT -->
 
