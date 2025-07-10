@@ -40,6 +40,7 @@ Discover inspiring personal academic websites and lab websites from various fiel
 - [Sheffield Lab](https://databio.org/) | [Code](https://github.com/databio/mkdocs-databio)
 - [Sloan Lab](https://www.stracquadaniolab.org/)
 - [Wurm Lab](https://wurmlab.com/) | [Code](https://github.com/wurmlab/wurmlab.github.io)
+<!-- END CONTENT -->
 
 ## Contributing
 
